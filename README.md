@@ -10,7 +10,7 @@
 
 ## 기능 목록
 - [x] 입력: **자동차 이름**와  **시도 횟수** 입력받기
-- [ ] 도메인: **Car** — 이름 보관, 위치 누적 전진(`moveForward(policy)`).
+- [x] 도메인: **Car** — 이름 보관, 위치 누적 전진(`moveForward(policy)`).
 - [x] 정책: **MovePolicy** 인터페이스와 **RandomMoveForwardPolicy(0~9, threshold=4)**.
 - [ ] 진행: **CarRace**
     - 매 라운드 모든 차의 전진 수행.
